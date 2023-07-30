@@ -19,6 +19,5 @@ public class BaseClass {
     public  void end() throws InterruptedException {
         Thread.sleep(6000);
         driver.quit();
-
     }
 }

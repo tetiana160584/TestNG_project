@@ -61,6 +61,5 @@ public class TestButtonCertificate {
             System.out.println("Certificate with number " + certificateNumber + " not found");
         }
     }
-    
 }
 

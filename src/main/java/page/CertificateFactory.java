@@ -60,7 +60,6 @@ public class CertificateFactory {
         }
         return result;
     }
-
 }
 
 

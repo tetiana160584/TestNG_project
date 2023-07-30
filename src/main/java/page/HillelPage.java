@@ -21,5 +21,4 @@ public class HillelPage {
     public boolean isCoursesButtonDisplayed() {
         return courseButton.isDisplayed();
     }
-
 }
