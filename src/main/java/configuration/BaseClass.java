@@ -1,10 +1,9 @@
-package configuratio;
+package configuration;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
-import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
 public class BaseClass {

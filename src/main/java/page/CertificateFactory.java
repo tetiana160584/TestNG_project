@@ -16,16 +16,6 @@ public class CertificateFactory {
     WebElement checkFormMassage;
 
 
-
-//    @FindBy(xpath = "//*[@id=\"certificateCheckForm\"]/p") // сообщ
-//    WebElement MessageNotFound;
-//
-//    public String getMassage(){        // сообщение
-//        return MessageNotFound.getText();
-//   }
-
-
-
     WebDriver driver;
 
     public CertificateFactory(WebDriver driver){
