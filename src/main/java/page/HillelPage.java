@@ -22,5 +22,4 @@ public class HillelPage {
         return courseButton.isDisplayed();
     }
 
-
 }
