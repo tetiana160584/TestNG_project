@@ -1,7 +1,7 @@
-import configuratio.BaseClass;
-import liseners.TestTestNGLisener;
+import configuration.BaseClass;
 import org.testng.annotations.*;
-@Listeners(TestTestNGLisener.class)
+
+//@Listeners(TestTestNGLisener.class)
 public class TestTestNG extends BaseClass {
     @BeforeClass
     public void bef() {

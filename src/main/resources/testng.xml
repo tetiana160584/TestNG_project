@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Tetiana">
+    <!--    <listeners>-->
+    <!--        <listener class-name="lesson0402.MyLisenerForFormConsultation"/>-->
+    <!--    </listeners>-->
+    <test verbose="2" preserve-order="true" name="testCertificateFactory">
+
+        <classes>
+            <!--            <class name="testCoursesButtonExists"/>-->
+            <class name="TestButtonCertificate"/>
+        </classes>
+    </test>
+</suite>
